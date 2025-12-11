@@ -12,6 +12,10 @@ This dashboard helps managers track energy trends across departments or teams, i
   - Radar/Bar charts for Physical, Emotional, Mental, and Spiritual Energy domains.
   - Comparison with previous survey rounds.
 
+|**Departmen**t	|**Physical Energy**| **Emotional Energy**| **Mental Energy**	|**Spiritual Energy**|
+|---------------|-------------------|---------------------|-------------------|--------------------|
+|HR             |2.8                |4.3                  |3.5                |3.9                 |
+
 **Depletion & Risk Indicators**
   - Line chart of Energy Depletion scores over time.
   - KPI trackers for Absenteeism, Turnover/Attrition, Digital Overload, and Burnout symptoms.
@@ -21,7 +25,15 @@ This dashboard helps managers track energy trends across departments or teams, i
   - Example insights: HR, IT, Sales departments with tailored recommendations.
 
 ---
+| Department   | Physical Energy | Emotional Energy | Mental Energy | Spiritual Energy |
+|--------------|-----------------|------------------|---------------|------------------|
+| HR           | 2.8             | 4.3              | 3.5           | 3.9              |
+| IT           | 3.2             | 3.6              | 3.8           | 3.4              |
+| Sales        | 3.7             | 3.9              | 4.1           | 4.5              |
+| Finance      | 3.4             | 3.2              | 3.9           | 3.6              |
+| Operations   | 3.6             | 3.5              | 3.7           | 3.8              |
 
+---
 ## 🗂 Data Requirements
 
 _The dashboard expects survey data with the following columns:_
