@@ -49,3 +49,46 @@ _The dashboard expects survey data with the following columns:_
 - Absenteeism Days (last month/quarter)  
 - Turnover Intent (yes/no)  
 - Digital Overload Score  
+
+
+
+Level 1: Organizational Strategy and Culture
+    - Purpose, values, sustainability, leadership intent
+
+        ↓
+
+Level 2: Integrated Management System (IMS)
+    - Common Annex SL structure: context, leadership, planning,
+      support, operations, performance evaluation, improvement
+
+        ↓ ↓ ↓
+
+Level 3: Parallel Management Systems within the IMS
+
+    ISO 9001: Quality Management System (QMS)
+        • Ensures product and service conformity
+        • Enhances customer satisfaction
+        • Standardizes and improves process quality
+
+    ISO 45001: Occupational Health and Safety Management System (OHSMS)
+        • Prevents work-related injury and ill-health
+        • Ensures a safe and healthy workplace
+        • Strengthens hazard and risk controls
+
+    HEMS: Human Energy Management System
+        • Manages physical, mental, emotional, and spiritual energy
+        • Supports human capacity, resilience, and engagement
+        • Addresses energy risks, fatigue, depletion, and renewal
+
+        ↓ ↓ ↓
+
+Level 4: Operational Execution
+    - Daily processes, leadership behaviors, communication,
+      workforce practices, and system controls
+
+        ↓
+
+Level 5: Organizational Outcomes
+    - High-quality products and services (ISO 9001)
+    - Safe and healthy working environments (ISO 45001)
+    - Sustainable workforce energy and resilience (HEMS)
